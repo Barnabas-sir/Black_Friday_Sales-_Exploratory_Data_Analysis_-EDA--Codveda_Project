@@ -1,0 +1,2 @@
+# Black_Friday_Sales-_Exploratory_Data_Analysis_-EDA--Codveda_Project
+This project performs an Exploratory Data Analysis (EDA) on the Black Friday Sales dataset to uncover customer purchasing behaviour, product trends, and business insights that can support data-driven retail decisions.  The analysis focuses on understanding:  Customer demographics and spending patterns Product category performance
